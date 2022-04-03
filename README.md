@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React.js and Next.js
-- 🌱 I’m currently learning Postgres, Laravel
+- 🔭 I’m currently working on ReactJS.
+- 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Reactjs project
 - 🤔 I’m looking for help with 
-- 💬 Ask me about reactjs, nextjs
-- 📫 How to reach me: @gmail.com
+- 💬 Ask me about reactjs.
+- 📫 How to reach me: mail@riteshkc.com.np
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am working as a Software Developer
+- ⚡ Fun fact: I am working as a Front End Web Developer.
 
 <h2 style="color: red;">Hello</h2>

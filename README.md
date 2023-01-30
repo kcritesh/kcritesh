@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ReactJS and NextJS.<br>🌱 I’m currently learning ReactJS.<br>👯 I’m looking to collaborate on ReactJS and NextJS projects.<br>💬 Ask me about frontend development<br>📫 How to reach me: mail@riteshkc.com.np<br>😄 Pronouns: He/His<br>⚡ Fun fact: The first computer “bug” was an actual real-life bug
+🔭 I’m currently working on ReactJS and NextJS.<br>👯 I’m looking to collaborate on ReactJS and NextJS projects.<br>💬 Ask me about frontend development<br>📫 How to reach me: mail@riteshkc.com.np<br>😄 Pronouns: He/His<br>⚡ Fun fact: The first computer “bug” was an actual real-life bug
 
 
 ## 🌐 Socials:

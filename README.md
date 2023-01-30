@@ -1,6 +1,9 @@
 # 💫 About Me:
+
 🔭 I’m currently working on ReactJS and NextJS.<br>👯 I’m looking to collaborate on ReactJS and NextJS projects.<br>💬 Ask me about frontend development<br>📫 How to reach me: mail@riteshkc.com.np<br>😄 Pronouns: He/His<br>⚡ Fun fact: The first computer “bug” was an actual real-life bug
 
+![](cat.gif)
+<!-- I got this idea of adding gif from @regmicmahesh-->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kcritesh59) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kcritesh59) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshkc) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kcritesh218) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/whoisriteshkc) 

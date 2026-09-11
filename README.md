@@ -53,6 +53,8 @@
 </sub>
 </div>
 
+<div align="center"> <img src="./cat.gif" width="120" alt="cat" /> </div>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kcritesh&style=flat&color=8A8A8A&label=views" alt="views" />
 </div>

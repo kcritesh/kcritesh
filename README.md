@@ -30,7 +30,9 @@
 <td width="50%" valign="top">
 
 **worth a look**
-- [gradsy](https://dev.gradsy.io) — study-abroad platform, sole engineer
+- [gradsy](https://riteshkc.com.np/work/gradsy) — study-abroad platform, sole engineer
+- [yachtcloud](https://riteshkc.com.np/work/yacht-cloud) - multitenant platform for luxury charters
+- [noveon](https://riteshkc.com.np/work/noveon) - website for a investment firm
 - [my works](https://riteshkc.com.np/work) — my selected works
 
 </td>

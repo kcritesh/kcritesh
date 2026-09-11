@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,postgres,graphql,aws,docker&theme=light&perline=8" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,nodejs,python,java,postgres,mongo,graphql,aws,azure,docker,cloudflare&theme=light&perline=7" alt="stack" />
 </div>
 
 <br>

@@ -1,14 +1,74 @@
+<!--
+  Setup:
+  1. Create a repo named exactly "kcritesh" (must match your GitHub username) and put this
+     file in it as README.md — GitHub renders it on your profile automatically.
+  2. The snake animation near the bottom needs a one-time GitHub Action. Steps are in the
+     comment right above that section.
+-->
 
-# 💫 About Me:
-Frontend Developer with 4+ years of experience building web applications using React and Next.js.
-Focused on creating clean, performant, and user-friendly interfaces.
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kcritesh59) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kcritesh59) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshkc) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kcritesh218) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/whoisriteshkc) 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=8A8A8A&center=true&vCenter=true&width=520&lines=ritesh+kc;full-stack+developer;react+%2F+next.js+%2F+nestjs;currently%3A+building+with+llms" alt="typing" />
 
-# 💻Primary Tech Stack :
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<br />
 
----
- [![](https://visitcount.itsvg.in/api?id=kcritesh&icon=5&color=0)](https://visitcount.itsvg.in) 
+<sub>kathmandu, nepal</sub>
 
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,postgres,graphql,aws,docker&theme=light&perline=8" alt="stack" />
+</div>
+
+<br>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
+
+**what I'm doing**
+- Shipping full-stack products end to end
+- <strong> React/NextJS<strong/> front
+- NestJS, NodeJS, Postgres, MongoDB, AWS back
+- Lately: RAG pipelines, embeddings, LLM-backed features.
+
+</td>
+<td width="50%" valign="top">
+
+**worth a look**
+- [gradsy](https://dev.gradsy.io) — study-abroad platform, sole engineer
+- [my works](https://riteshkc.com.np/work) — my selected works
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
+<!--
+  Snake animation setup (one-time):
+  1. In this repo, add .github/workflows/snake.yml with the standard Platane/snk action
+     (search "platane snk github action" for the current yaml — it's a 15-line copy/paste).
+  2. It generates and commits an SVG on a schedule; point the <img> below at:
+     https://raw.githubusercontent.com/kcritesh/kcritesh/output/github-contribution-grid-snake-dark.svg
+  3. Until the action has run once, remove this section — the link 404s.
+-->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kcritesh/kcritesh/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
+
+<br>
+
+<div align="center">
+<sub>
+<a href="https://riteshkc.com.np">riteshkc.com.np</a> · <a href="https://linkedin.com/in/riteshkc">linkedin</a> · <a href="mailto:hello@riteshkc.com.np">hello@riteshkc.com.np</a>
+</sub>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kcritesh&style=flat&color=8A8A8A&label=views" alt="views" />
+</div>

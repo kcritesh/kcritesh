@@ -1,12 +1,4 @@
-<!--
-  Setup:
-  1. Create a repo named exactly "kcritesh" (must match your GitHub username) and put this
-     file in it as README.md — GitHub renders it on your profile automatically.
-  2. The snake animation near the bottom needs a one-time GitHub Action. Steps are in the
-     comment right above that section.
--->
-
-<div align="center">
+<div align="center"> <img src="./logo.svg" width="56" height="56" alt="logo" /> <br />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=8A8A8A&center=true&vCenter=true&width=520&lines=ritesh+kc;full-stack+developer;react+%2F+next.js+%2F+nestjs;currently%3A+building+with+llms" alt="typing" />
 
@@ -46,16 +38,6 @@
 </table>
 
 <br>
-
-
-<!--
-  Snake animation setup (one-time):
-  1. In this repo, add .github/workflows/snake.yml with the standard Platane/snk action
-     (search "platane snk github action" for the current yaml — it's a 15-line copy/paste).
-  2. It generates and commits an SVG on a schedule; point the <img> below at:
-     https://raw.githubusercontent.com/kcritesh/kcritesh/output/github-contribution-grid-snake-dark.svg
-  3. Until the action has run once, remove this section — the link 404s.
--->
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/kcritesh/kcritesh/output/github-contribution-grid-snake-dark.svg" alt="snake" />

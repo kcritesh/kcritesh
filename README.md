@@ -30,6 +30,7 @@
 <td width="50%" valign="top">
 
 **worth a look**
+- [gymastra](https://gymastra.com) - Best Gym Management Software in Nepal
 - [gradsy](https://riteshkc.com.np/work/gradsy) — study-abroad platform, sole engineer
 - [yachtcloud](https://riteshkc.com.np/work/yacht-cloud) - multitenant platform for luxury charters
 - [noveon](https://riteshkc.com.np/work/noveon) - website for a investment firm
